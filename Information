@@ -400,10 +400,8 @@ sd(TBIRTH_YEAR[GENID_DESCRIBE == "male"])
 
 ## [1] 16.09923
 
-#When speaking about the impacts of covid-19, i find it interesting that nearly
-#a third of individuals in this survey can say they have worked from home in 
-#some capacity in the last week.
+#When speaking about the impacts of covid-19, i find it interesting
+that most people lost their jobs due to covid which seems prety unfair and quite honestly the countires fault.
 
-#It is also interesting to see that most individuals in this survey use texting 
-#as a primary source of communication with support groups.
-#How has this affected society on a mental+physical health aspect as well as productivity.
+#It is also interesting how most of the data used here is mainly impacted by coid-19.
+#How would this data look if covid-19 never hit and would it be big change or not?
